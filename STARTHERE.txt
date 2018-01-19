@@ -1,0 +1,14 @@
+var slist = {};
+jQuery('div.page_content').find('a.spell').each(function() {
+    var name = jQuery(this).text().replace(/ /g, '').replace(/'/g, '').replace(/:/g, '');
+    if (name && name.length) {
+        slist[name] = jQuery(this).attr('href').match(/[\d]+$/)[0];
+    }
+});
+var sout = '';
+for (var i in slist) {
+    if (slist.hasOwnProperty(i)) {
+        sout += 'local _' + i + ' = ' + slist[i] + ";\n";
+    }
+}
+console.log(sout);
