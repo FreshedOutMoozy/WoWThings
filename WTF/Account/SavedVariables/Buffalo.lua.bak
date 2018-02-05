@@ -1,0 +1,42 @@
+
+BuffaloDB = {
+	["profiles"] = {
+		["Default"] = {
+			["xPos"] = {
+				["debuff"] = 1283.403742349697,
+				["buff"] = 1282.590850345585,
+				["weapon"] = 1282.591426150086,
+			},
+			["hide"] = {
+				["buff"] = false,
+			},
+			["rows"] = {
+				["buff"] = 1,
+			},
+			["cols"] = {
+				["debuff"] = 16,
+				["buff"] = 16,
+			},
+			["yPos"] = {
+				["debuff"] = 696.9841415483785,
+				["buff"] = 777.1300101475703,
+				["weapon"] = 660.8000828843589,
+			},
+			["locked"] = true,
+			["skins"] = {
+				["debuff"] = {
+					["gloss"] = 0,
+					["skin"] = "Blizzard",
+				},
+				["buff"] = {
+					["gloss"] = 0,
+					["skin"] = "Blizzard",
+				},
+				["weapon"] = {
+					["gloss"] = 0,
+					["skin"] = "Blizzard",
+				},
+			},
+		},
+	},
+}

@@ -1,0 +1,21 @@
+
+AtlasLootDB = {
+	["namespaces"] = {
+		["DefaultFrame"] = {
+		},
+		["AtlasLootPanel"] = {
+		},
+		["WishList"] = {
+		},
+		["Filter"] = {
+		},
+	},
+	["showWarning"] = true,
+	["profileKeys"] = {
+		["Darker - Khadgar"] = "Darker - Khadgar",
+	},
+	["profiles"] = {
+		["Darker - Khadgar"] = {
+		},
+	},
+}

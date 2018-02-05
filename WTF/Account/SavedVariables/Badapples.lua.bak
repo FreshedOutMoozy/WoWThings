@@ -1,0 +1,20 @@
+
+BadapplesState = {
+	["Servers"] = {
+		["Khadgar"] = {
+			["Characters"] = {
+				["Darker"] = {
+					["Tab"] = "FriendsEnabled",
+				},
+			},
+			["List"] = {
+			},
+		},
+	},
+	["Colors"] = {
+		["b"] = 0.3,
+		["g"] = 0.65,
+		["r"] = 1,
+	},
+	["Version"] = "3.0.1",
+}

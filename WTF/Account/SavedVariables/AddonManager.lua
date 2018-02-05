@@ -1,0 +1,4 @@
+
+AddonManagerSaved = {
+	["poll"] = true,
+}

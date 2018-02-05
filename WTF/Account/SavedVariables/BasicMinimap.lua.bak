@@ -1,0 +1,13 @@
+
+BasicMinimapDB = {
+	["profileKeys"] = {
+		["Grynch - Khadgar"] = "Grynch - Khadgar",
+	},
+	["profiles"] = {
+		["Grynch - Khadgar"] = {
+			["y"] = 70.00000435789539,
+			["x"] = 542.0073318075545,
+			["scale"] = 1.24,
+		},
+	},
+}

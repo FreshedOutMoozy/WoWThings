@@ -1,0 +1,32 @@
+
+DataStore_CurrenciesDB = {
+	["profileKeys"] = {
+		["Pryst - Khadgar"] = "Pryst - Khadgar",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.Khadgar.Pryst"] = {
+				["Currencies"] = {
+					"0|Dungeon and Raid", -- [1]
+					"1|Emblem of Conquest|31|45624", -- [2]
+					"1|Emblem of Heroism|0|40752", -- [3]
+					"1|Emblem of Triumph|16|47241", -- [4]
+					"1|Emblem of Valor|0|40753", -- [5]
+					"0|Miscellaneous", -- [6]
+					"1|Badge of Justice|1|29434", -- [7]
+					"1|Champion's Seal|44|44990", -- [8]
+					"0|Player vs. Player", -- [9]
+					"1|Alterac Valley Mark of Honor|1|20560", -- [10]
+					"1|Arathi Basin Mark of Honor|7|20559", -- [11]
+					"1|Arena Points|0|43307", -- [12]
+					"1|Honor Points|8759|43308", -- [13]
+					"1|Stone Keeper's Shard|210|43228", -- [14]
+					"1|Venture Coin|30|37836", -- [15]
+					"1|Warsong Gulch Mark of Honor|4|20558", -- [16]
+					"1|Wintergrasp Mark of Honor|3|43589", -- [17]
+				},
+				["lastUpdate"] = 1258052870,
+			},
+		},
+	},
+}

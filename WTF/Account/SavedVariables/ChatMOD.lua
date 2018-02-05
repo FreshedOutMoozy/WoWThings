@@ -1,0 +1,64 @@
+
+SCCN_mousescroll = 1
+SCCN_hidechanname = 0
+SCCN_colornicks = 0
+SCCN_topeditbox = 1
+SCCN_timestamp = 1
+SCCN_hyperlinker = 1
+SCCN_selfhighlight = 1
+SCCN_clickinvite = 0
+SCCN_editboxkeys = 1
+SCCN_chatstring = 1
+SCCN_selfhighlightmsg = 1
+SCCN_ts_format = "#33CCFF[$h:$m]"
+SCCN_HideChatButtons = 1
+SCCN_Highlight_Text = {
+	"", -- [1]
+	"", -- [2]
+	"", -- [3]
+}
+SCCN_Highlight = 0
+SCCN_shortchanname = 0
+SCCN_AutoDismount = 0
+SCCN_AutoGossipSkip = 0
+SCCN_Chan_Replace = {
+	"", -- [1]
+	"", -- [2]
+	"", -- [3]
+	"", -- [4]
+	"", -- [5]
+	"", -- [6]
+	"", -- [7]
+	"", -- [8]
+	"", -- [9]
+}
+SCCN_Chan_ReplaceWith = {
+	"", -- [1]
+	"", -- [2]
+	"", -- [3]
+	"", -- [4]
+	"", -- [5]
+	"", -- [6]
+	"", -- [7]
+	"", -- [8]
+	"", -- [9]
+}
+SCCN_chatsound = {
+	0, -- [1]
+	0, -- [2]
+	0, -- [3]
+	0, -- [4]
+	0, -- [5]
+}
+SCCN_InChatHighlight = 1
+SCCN_AllSticky = 1
+SCCN_NOFADE = 1
+SCCN_disablewhocheck = 0
+SCCN_chatscrollicon = 1
+SCCN_SCROLLBACK_BUFFER = 128
+SCCN_displayusage = 0
+SCCN_CHATLINK = 1
+SCCN_CHATCOLORNAME = nil
+SCCN_SHOWLEVEL = 1
+SCCN_COM_GUILD = 1
+SCCN_SHOWICON = 1

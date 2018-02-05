@@ -1,0 +1,266 @@
+
+DataStore_ContainersDB = {
+	["profileKeys"] = {
+		["Pryst - Khadgar"] = "Pryst - Khadgar",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.Khadgar.Pryst"] = {
+				["lastUpdate"] = 1258052870,
+				["Containers"] = {
+					["Bag4"] = {
+						["ids"] = {
+							nil, -- [1]
+							nil, -- [2]
+							43499, -- [3]
+							6948, -- [4]
+							nil, -- [5]
+							40211, -- [6]
+							9149, -- [7]
+							46376, -- [8]
+							13454, -- [9]
+							32067, -- [10]
+							34765, -- [11]
+							21215, -- [12]
+							27662, -- [13]
+							nil, -- [14]
+							44941, -- [15]
+							27657, -- [16]
+						},
+						["links"] = {
+							nil, -- [1]
+							nil, -- [2]
+							nil, -- [3]
+							nil, -- [4]
+							nil, -- [5]
+							"|cffffffff|Hitem:40211:0:0:0:0:0:0:-1518575276:80|h[Potion of Speed]|h|r", -- [6]
+							"|cff1eff00|Hitem:9149:0:0:0:0:0:0:1475288064:80|h[Philosopher's Stone]|h|r", -- [7]
+							"|cffffffff|Hitem:46376:0:0:0:0:0:0:1743544704:80|h[Flask of the Frost Wyrm]|h|r", -- [8]
+							"|cffffffff|Hitem:13454:0:0:0:0:0:0:654418432:80|h[Greater Arcane Elixir]|h|r", -- [9]
+							"|cffffffff|Hitem:32067:0:0:0:0:0:0:1305367936:80|h[Elixir of Draenic Wisdom]|h|r", -- [10]
+							"|cffffffff|Hitem:34765:0:0:0:0:0:0:159628055:80|h[Pickled Fangtooth]|h|r", -- [11]
+							"|cffffffff|Hitem:21215:0:0:0:0:0:0:-2098797063:80|h[Graccu's Mince Meat Fruitcake]|h|r", -- [12]
+							"|cffffffff|Hitem:27662:0:0:0:0:0:0:1866473338:80|h[Feltail Delight]|h|r", -- [13]
+							nil, -- [14]
+							nil, -- [15]
+							"|cffffffff|Hitem:27657:0:0:0:0:0:0:1618030336:80|h[Blackened Basilisk]|h|r", -- [16]
+						},
+						["link"] = "|cff1eff00|Hitem:21841:0:0:0:0:0:0:304349274:80|h[Netherweave Bag]|h|r",
+						["icon"] = "Interface\\Icons\\INV_Misc_Bag_23_Netherweave",
+						["size"] = 16,
+						["counts"] = {
+							[10] = 5,
+							[6] = 4,
+							[16] = 16,
+							[9] = 10,
+							[11] = 2,
+							[15] = 2,
+							[8] = 7,
+							[12] = 6,
+						},
+						["freeslots"] = 4,
+					},
+					["Bag0"] = {
+						["ids"] = {
+							18662, -- [1]
+							36913, -- [2]
+							33470, -- [3]
+							43348, -- [4]
+							40685, -- [5]
+							47560, -- [6]
+							36913, -- [7]
+							40486, -- [8]
+							36913, -- [9]
+							41939, -- [10]
+							36913, -- [11]
+							36913, -- [12]
+							40411, -- [13]
+							36913, -- [14]
+							47564, -- [15]
+							41874, -- [16]
+						},
+						["links"] = {
+							"|cffffffff|Hitem:18662:0:0:0:0:0:0:1318619776:80|h[Heavy Leather Ball]|h|r", -- [1]
+							"|cffffffff|Hitem:36913:0:0:0:0:0:0:1468609920:80|h[Saronite Bar]|h|r", -- [2]
+							nil, -- [3]
+							"|cffa335ee|Hitem:43348:0:0:0:0:0:0:1616720594:80|h[Tabard of the Explorer]|h|r", -- [4]
+							nil, -- [5]
+							nil, -- [6]
+							"|cffffffff|Hitem:36913:0:0:0:0:0:0:1741185920:80|h[Saronite Bar]|h|r", -- [7]
+							"|cffa335ee|Hitem:40486:0:0:0:0:0:0:-2046722560:80|h[Necklace of the Glittering Chamber]|h|r", -- [8]
+							"|cffffffff|Hitem:36913:0:0:0:0:0:0:139644864:80|h[Saronite Bar]|h|r", -- [9]
+							"|cffa335ee|Hitem:41939:0:0:0:0:0:0:-1966749824:80|h[Deadly Gladiator's Satin Gloves]|h|r", -- [10]
+							"|cffffffff|Hitem:36913:0:0:0:0:0:0:1215081216:80|h[Saronite Bar]|h|r", -- [11]
+							"|cffffffff|Hitem:36913:0:0:0:0:0:0:1418132096:80|h[Saronite Bar]|h|r", -- [12]
+							nil, -- [13]
+							"|cffffffff|Hitem:36913:0:0:0:0:0:0:1468609920:80|h[Saronite Bar]|h|r", -- [14]
+							"|cffa335ee|Hitem:47564:0:3621:3520:0:0:0:-1605172480:80|h[Gaze of the Unknown]|h|r", -- [15]
+							"|cffa335ee|Hitem:41874:0:0:0:0:0:0:824854016:80|h[Furious Gladiator's Mooncloth Gloves]|h|r", -- [16]
+						},
+						["icon"] = "Interface\\Buttons\\Button-Backpack-Up",
+						["size"] = 16,
+						["counts"] = {
+							[12] = 19,
+							[7] = 20,
+							[9] = 20,
+							[11] = 20,
+							[3] = 20,
+							[14] = 15,
+							[2] = 20,
+						},
+					},
+					["Bag1"] = {
+						["ids"] = {
+							40195, -- [1]
+							40195, -- [2]
+							44615, -- [3]
+							40449, -- [4]
+							41892, -- [5]
+							36913, -- [6]
+							33470, -- [7]
+							44615, -- [8]
+							36913, -- [9]
+							nil, -- [10]
+							40610, -- [11]
+							41133, -- [12]
+							37238, -- [13]
+							20409, -- [14]
+							20390, -- [15]
+							[18] = 40448,
+							[19] = 45011,
+						},
+						["links"] = {
+							"|cffffffff|Hitem:40195:0:0:0:0:0:0:1459836032:80|h[Pygmy Oil]|h|r", -- [1]
+							"|cffffffff|Hitem:40195:0:0:0:0:0:0:1158530560:80|h[Pygmy Oil]|h|r", -- [2]
+							nil, -- [3]
+							"|cffa335ee|Hitem:40449:1144:3448:3455:0:0:0:0:80|h[Valorous Robe of Faith]|h|r", -- [4]
+							"|cffa335ee|Hitem:41892:0:0:0:0:0:0:1095912000:80|h[Deadly Gladiator's Cuffs of Salvation]|h|r", -- [5]
+							"|cffffffff|Hitem:36913:0:0:0:0:0:0:844210496:80|h[Saronite Bar]|h|r", -- [6]
+							[9] = "|cffffffff|Hitem:36913:0:0:0:0:0:0:617768896:80|h[Saronite Bar]|h|r",
+							[12] = "|cff0070dd|Hitem:41133:0:0:0:0:0:0:1677917056:80|h[Unhatched Mr. Chilly]|h|r",
+							[13] = "|cffa335ee|Hitem:37238:0:0:0:0:0:0:-1966182040:80|h[Rod of the Fallen Monarch]|h|r",
+							[14] = "|cffffffff|Hitem:20409:0:0:0:0:0:0:-612366854:80|h[Hallowed Wand - Ghost]|h|r",
+							[18] = "|cffa335ee|Hitem:40448:3719:3448:3505:0:0:0:0:80|h[Valorous Leggings of Faith]|h|r",
+						},
+						["link"] = "|cffa335ee|Hitem:43345:0:0:0:0:0:0:873990389:80|h[Dragon Hide Bag]|h|r",
+						["icon"] = "Interface\\Icons\\INV_Misc_Bag_26_Spellfire",
+						["size"] = 22,
+						["counts"] = {
+							17, -- [1]
+							19, -- [2]
+							15, -- [3]
+							nil, -- [4]
+							nil, -- [5]
+							2, -- [6]
+							4, -- [7]
+							20, -- [8]
+							20, -- [9]
+							[15] = 6,
+						},
+						["freeslots"] = 6,
+					},
+					["Bag2"] = {
+						["ids"] = {
+							[4] = 46106,
+							[5] = 7005,
+							[3] = 46069,
+							[15] = 33470,
+						},
+						["links"] = {
+							[3] = "|cffffffff|Hitem:46069:0:0:0:0:0:0:1512909952:80|h[Alliance Lance]|h|r",
+							[4] = "|cffffffff|Hitem:46106:0:0:0:0:0:0:1289900800:80|h[Argent Lance]|h|r",
+						},
+						["link"] = "|cff1eff00|Hitem:21841:0:0:0:0:0:0:138980582:80|h[Netherweave Bag]|h|r",
+						["icon"] = "Interface\\Icons\\INV_Misc_Bag_23_Netherweave",
+						["size"] = 16,
+						["counts"] = {
+							[15] = 20,
+						},
+						["freeslots"] = 12,
+					},
+					["Bag3"] = {
+						["ids"] = {
+							nil, -- [1]
+							nil, -- [2]
+							39231, -- [3]
+							41898, -- [4]
+							47527, -- [5]
+							40380, -- [6]
+							40698, -- [7]
+							39229, -- [8]
+							39423, -- [9]
+							nil, -- [10]
+							nil, -- [11]
+							nil, -- [12]
+							33448, -- [13]
+							33448, -- [14]
+							nil, -- [15]
+							47181, -- [16]
+						},
+						["links"] = {
+							nil, -- [1]
+							nil, -- [2]
+							"|cffa335ee|Hitem:39231:0:0:0:0:0:0:-1953445514:80|h[Timeworn Silken Band]|h|r", -- [3]
+							"|cffa335ee|Hitem:41898:0:3476:0:0:0:0:1291118048:80|h[Furious Gladiator's Cord of Dominance]|h|r", -- [4]
+							"|cffa335ee|Hitem:47527:0:3515:3515:0:0:0:2035585408:80|h[Embrace of Madness]|h|r", -- [5]
+							"|cffa335ee|Hitem:40380:3246:0:0:0:0:0:1954082944:80|h[Gloves of Grandeur]|h|r", -- [6]
+							nil, -- [7]
+							"|cffa335ee|Hitem:39229:0:0:0:0:0:0:1391468416:80|h[Embrace of the Spider]|h|r", -- [8]
+							"|cffa335ee|Hitem:39423:3830:0:0:0:0:0:707990112:80|h[Hammer of the Astral Plane]|h|r", -- [9]
+							nil, -- [10]
+							nil, -- [11]
+							nil, -- [12]
+							"|cffffffff|Hitem:33448:0:0:0:0:0:0:1910327680:80|h[Runic Mana Potion]|h|r", -- [13]
+							"|cffffffff|Hitem:33448:0:0:0:0:0:0:1853975552:80|h[Runic Mana Potion]|h|r", -- [14]
+							[16] = "|cffa335ee|Hitem:47181:0:0:0:0:0:0:1419124736:80|h[Belt of the Churning Blaze]|h|r",
+						},
+						["link"] = "|cff1eff00|Hitem:21841:0:0:0:0:0:0:1500773773:80|h[Netherweave Bag]|h|r",
+						["icon"] = "Interface\\Icons\\INV_Misc_Bag_23_Netherweave",
+						["size"] = 16,
+						["counts"] = {
+							[13] = 4,
+							[14] = 5,
+						},
+						["freeslots"] = 6,
+					},
+					["Bag-2"] = {
+						["ids"] = {
+							6893, -- [1]
+							7146, -- [2]
+							11078, -- [3]
+							11140, -- [4]
+							18249, -- [5]
+							27991, -- [6]
+							30688, -- [7]
+							30622, -- [8]
+							30623, -- [9]
+							34078, -- [10]
+							42482, -- [11]
+							13303, -- [12]
+							13304, -- [13]
+						},
+						["links"] = {
+							"|cffffffff|Hitem:6893:0:0:0:0:0:0:937898385:80|h[Workshop Key]|h|r", -- [1]
+							"|cff1eff00|Hitem:7146:0:0:0:0:0:0:704262900:80|h[The Scarlet Key]|h|r", -- [2]
+							"|cffffffff|Hitem:11078:0:0:0:0:0:0:1625191221:80|h[Relic Coffer Key]|h|r", -- [3]
+							[5] = "|cffffffff|Hitem:18249:0:0:0:0:0:0:903203814:80|h[Crescent Key]|h|r",
+							[6] = "|cffffffff|Hitem:27991:0:0:0:0:0:0:-1980265190:80|h[Shadow Labyrinth Key]|h|r",
+							[7] = "|cffffffff|Hitem:30688:0:0:0:0:0:0:1356042170:80|h[Deathforge Key]|h|r",
+							[10] = "|cffffffff|Hitem:34078:0:0:0:0:0:0:472343546:80|h[Icehammer's Harpoon Controller]|h|r",
+							[11] = "|cffffffff|Hitem:42482:0:0:0:0:0:0:675016563:80|h[The Violet Hold Key]|h|r",
+							[12] = "|cffffffff|Hitem:13303:0:0:0:0:0:0:1836153643:80|h[Crusaders' Square Postbox Key]|h|r",
+							[13] = "|cffffffff|Hitem:13304:0:0:0:0:0:0:2104589099:80|h[Festival Lane Postbox Key]|h|r",
+						},
+						["icon"] = "Interface\\Icons\\INV_Misc_Key_14",
+						["size"] = 32,
+						["counts"] = {
+							[3] = 4,
+						},
+					},
+				},
+				["numFreeBagSlots"] = 28,
+				["numBagSlots"] = 86,
+			},
+		},
+	},
+}

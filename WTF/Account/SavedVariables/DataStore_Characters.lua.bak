@@ -1,0 +1,32 @@
+
+DataStore_CharactersDB = {
+	["profileKeys"] = {
+		["Pryst - Khadgar"] = "Pryst - Khadgar",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.Khadgar.Pryst"] = {
+				["XPMax"] = 1691700,
+				["played"] = 2517163,
+				["guildRankName"] = "Trial",
+				["isResting"] = 1,
+				["lastUpdate"] = 1258053668,
+				["class"] = "Priest",
+				["race"] = "Human",
+				["level"] = 80,
+				["XP"] = 444,
+				["RestXP"] = 0,
+				["money"] = 3259116,
+				["gender"] = 2,
+				["subZone"] = "The Eventide",
+				["zone"] = "Dalaran",
+				["name"] = "Pryst",
+				["faction"] = "Alliance",
+				["guildRankIndex"] = 7,
+				["guildName"] = "Solstice",
+				["lastLogoutTimestamp"] = 1258053668,
+				["englishClass"] = "PRIEST",
+			},
+		},
+	},
+}

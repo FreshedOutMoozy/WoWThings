@@ -1,0 +1,63 @@
+
+ClassTimerDB = {
+	["profileKeys"] = {
+		["Pryst - Khadgar"] = "Pryst - Khadgar",
+	},
+	["profiles"] = {
+		["Pryst - Khadgar"] = {
+			["AllInOneOwner"] = "player",
+			["Group"] = {
+				["player"] = false,
+				["focus"] = false,
+			},
+			["Units"] = {
+				["player"] = {
+					["texture"] = "Minimalist",
+					["x"] = 445.9396050523752,
+					["scale"] = 1.01,
+					["fontsize"] = 11.5,
+					["width"] = 125,
+					["y"] = 117.9681450498772,
+					["font"] = "ABF",
+					["buffs"] = false,
+				},
+				["general"] = {
+					["scale"] = 1.01,
+					["fontsize"] = 11.5,
+					["width"] = 125,
+					["texture"] = "Minimalist",
+					["font"] = "ABF",
+					["buffs"] = false,
+				},
+				["focus"] = {
+					["texture"] = "Minimalist",
+					["x"] = 934.3712070758726,
+					["scale"] = 1.01,
+					["fontsize"] = 11.5,
+					["width"] = 125,
+					["y"] = 117.9680280895879,
+					["font"] = "ABF",
+					["buffs"] = false,
+				},
+				["target"] = {
+					["texture"] = "Minimalist",
+					["x"] = 764.5177323114959,
+					["scale"] = 1.01,
+					["fontsize"] = 11.5,
+					["width"] = 125,
+					["y"] = 118.7806771761766,
+					["font"] = "ABF",
+					["buffs"] = false,
+				},
+				["sticky"] = {
+					["scale"] = 1.01,
+					["fontsize"] = 11.5,
+					["width"] = 125,
+					["texture"] = "Minimalist",
+					["font"] = "ABF",
+					["buffs"] = false,
+				},
+			},
+		},
+	},
+}

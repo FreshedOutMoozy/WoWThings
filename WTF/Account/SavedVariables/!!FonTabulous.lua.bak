@@ -1,0 +1,6 @@
+
+FTABDB = {
+	["KhadgarStryder_Font"] = 101,
+	["KhadgarStryder_FontScale"] = 1,
+	["KhadgarStryder_AutoLoad"] = 0,
+}

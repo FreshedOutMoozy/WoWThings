@@ -1,0 +1,28 @@
+
+AltoholicDB = {
+	["profileKeys"] = {
+		["Pryst - Khadgar"] = "Pryst - Khadgar",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.Khadgar.Pryst"] = {
+				["Friends"] = {
+					"Krotor", -- [1]
+					"Pdanger", -- [2]
+					"Silverwarr", -- [3]
+					"Fluffyman", -- [4]
+					"Laithanor", -- [5]
+					"Mystisica", -- [6]
+					"Oric", -- [7]
+					"Pheobe", -- [8]
+					"Souldust", -- [9]
+					"Stummpyy", -- [10]
+				},
+				["Calendar"] = {
+					"2009-11-12|20:45|Naxx10|1|8", -- [1]
+					"2009-11-13|21:00|Hyjal Summit|1|8", -- [2]
+				},
+			},
+		},
+	},
+}

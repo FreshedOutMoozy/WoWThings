@@ -1,0 +1,11 @@
+
+BlackListedPlayers = {
+	["Khadgar"] = {
+	},
+}
+BlackListConfig = {
+	["Ignore"] = false,
+	["Center"] = true,
+	["Sound"] = true,
+	["Chat"] = true,
+}

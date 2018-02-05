@@ -1,0 +1,15 @@
+
+DataStoreDB = {
+	["profileKeys"] = {
+		["Pryst - Khadgar"] = "Pryst - Khadgar",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.Khadgar.Pryst"] = {
+				["guildName"] = "Solstice",
+				["faction"] = "Alliance",
+			},
+		},
+		["Version"] = 1,
+	},
+}

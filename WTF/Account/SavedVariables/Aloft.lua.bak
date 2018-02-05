@@ -1,0 +1,3 @@
+
+AloftDB = nil
+AloftFuDB = nil

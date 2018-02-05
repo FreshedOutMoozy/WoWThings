@@ -1,0 +1,29 @@
+VER 3 0000000000000005 "Attack Near" "INV_SWORD_113"
+#show x
+/cleartarget
+/targetenemy [noharm]
+/startattack
+/cast x
+END
+VER 3 0000000000000004 "Character" "INV_WorseRobot"
+/run ToggleCharacter("PaperDollFrame")
+END
+VER 3 0000000000000001 "Decursive" "INV_MISC_QUESTIONMARK"
+/script DecursiveRootTable.Dcr:Println('No spell available')
+END
+VER 3 0000000000000007 "Guild" "ACHIEVEMENT_GUILDPERK_FASTTRACK_RANK2"
+/1 <Afterlight> is a new mature guild intended for players who want to raid a little later than average,  due to family or work committments or just night owls!  Recruitment begins now for WoD! Raid times will be around 22:00 server time, all are welcome!
+END
+VER 3 0000000000000008 "Guild Trade" "SPELL_NATURE_SWIFTNESS"
+/2 <Afterlight> is a new mature guild intended for players who want to raid a little later than average,  due to family or work committments or just night owls!  Recruitment begins now for WoD! Raid times will be around 22:00 server time, all are welcome
+END
+VER 3 0000000000000006 "Map Toggle" "ACHIEVEMENT_GUILDPERK_FASTTRACK_RANK2"
+/script ToggleFrame(WorldMapFrame);
+END
+VER 3 0000000000000003 "Skada" "INV_ZulGurubTrinket"
+/skada toggle
+END
+VER 3 0000000000000009 "Trinket2" "133560"
+/use 13
+/use 14
+END

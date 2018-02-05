@@ -1,0 +1,37 @@
+
+CartographerDB = {
+	["namespaces"] = {
+		["Waypoints"] = {
+			["profiles"] = {
+				["Default"] = {
+				},
+			},
+		},
+		["Notes"] = {
+			["account"] = {
+				["pois"] = {
+					["version"] = 3,
+				},
+			},
+		},
+		["LookNFeel"] = {
+			["profiles"] = {
+				["Default"] = {
+					["scale"] = 1,
+				},
+			},
+		},
+		["POI"] = {
+			["profiles"] = {
+				["Default"] = {
+					["pois"] = {
+						["version"] = 3,
+					},
+				},
+			},
+		},
+	},
+	["account"] = {
+		["firstTimeWoW21"] = true,
+	},
+}

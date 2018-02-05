@@ -1,0 +1,429 @@
+
+aUF2DB = {
+	["namespaces"] = {
+		["ag_UnitFrames_Powerbar"] = {
+			["profileKeys"] = {
+				["Grynch - Khadgar"] = "Default",
+			},
+			["profiles"] = {
+				["Default"] = {
+					["units"] = {
+						["targettarget"] = {
+							["ShowMana"] = true,
+						},
+					},
+				},
+			},
+		},
+		["ag_UnitFrames_HappinessIcon"] = {
+			["profileKeys"] = {
+				["Grynch - Khadgar"] = "Default",
+			},
+			["profiles"] = {
+				["Default"] = {
+				},
+			},
+		},
+		["ABFlayout"] = {
+			["profileKeys"] = {
+				["Grynch - Khadgar"] = "Default",
+			},
+			["profiles"] = {
+				["Default"] = {
+					["party"] = {
+						["HealthBarRightText"] = "percenthp",
+						["ManaBarRightText"] = "percentmp",
+					},
+					["focus"] = {
+						["HealthBarRightText"] = "percenthp",
+						["ManaBarRightText"] = "percentmp",
+					},
+					["target"] = {
+						["HealthBarRightText"] = "percenthp",
+						["ManaBarRightText"] = "percentmp",
+					},
+					["pet"] = {
+						["HealthBarRightText"] = "percenthp",
+					},
+					["player"] = {
+						["HealthBarRightText"] = "percenthp",
+						["ManaBarRightText"] = "percentmp",
+					},
+				},
+			},
+		},
+		["ag_UnitFrames_Highlight"] = {
+			["profileKeys"] = {
+				["Grynch - Khadgar"] = "Default",
+			},
+			["profiles"] = {
+				["Default"] = {
+					["units"] = {
+						["focustarget"] = {
+							["HighlightSelected"] = false,
+						},
+						["targettarget"] = {
+							["HighlightSelected"] = false,
+						},
+						["party"] = {
+							["HighlightSelected"] = false,
+						},
+						["focus"] = {
+							["HighlightSelected"] = false,
+						},
+						["target"] = {
+							["HighlightSelected"] = false,
+						},
+						["pet"] = {
+							["HighlightSelected"] = false,
+						},
+						["player"] = {
+							["HighlightSelected"] = false,
+						},
+					},
+				},
+			},
+		},
+		["ag_UnitFrames_Masterlootericon"] = {
+			["profileKeys"] = {
+				["Grynch - Khadgar"] = "Default",
+			},
+			["profiles"] = {
+				["Default"] = {
+				},
+			},
+		},
+		["ag_UnitFrames_Pvpicon"] = {
+			["profileKeys"] = {
+				["Grynch - Khadgar"] = "Default",
+			},
+		},
+		["ag_UnitFrames_Auras"] = {
+			["profileKeys"] = {
+				["Grynch - Khadgar"] = "Default",
+			},
+			["profiles"] = {
+				["Default"] = {
+					["units"] = {
+						["partytarget"] = {
+						},
+						["focustarget"] = {
+							["DebuffPos"] = "Hidden",
+							["AuraPos"] = "Hidden",
+						},
+						["targettarget"] = {
+							["DebuffPos"] = "Hidden",
+							["AuraPos"] = "Hidden",
+						},
+						["player"] = {
+							["DebuffPos"] = "Hidden",
+							["AuraPos"] = "Hidden",
+							["cooldown"] = false,
+						},
+						["focus"] = {
+							["DebuffPos"] = "Above",
+							["AuraPos"] = "Hidden",
+						},
+						["target"] = {
+							["DebuffPos"] = "Hidden",
+							["AuraPos"] = "Hidden",
+						},
+						["party"] = {
+						},
+						["pet"] = {
+							["DebuffPos"] = "Above",
+							["AuraPos"] = "Hidden",
+							["cooldown"] = false,
+						},
+					},
+				},
+			},
+		},
+		["ag_UnitFrames_Statusicon"] = {
+			["profileKeys"] = {
+				["Grynch - Khadgar"] = "Default",
+			},
+			["profiles"] = {
+				["Default"] = {
+				},
+			},
+		},
+		["ag_UnitFrames_Aggroborder"] = {
+			["profileKeys"] = {
+				["Grynch - Khadgar"] = "Default",
+			},
+			["profiles"] = {
+				["Default"] = {
+				},
+			},
+		},
+		["ag_UnitFrames_Castbar"] = {
+			["profileKeys"] = {
+				["Grynch - Khadgar"] = "Default",
+			},
+			["profiles"] = {
+				["Default"] = {
+					["units"] = {
+						["party"] = {
+							["CastBar"] = false,
+						},
+						["target"] = {
+							["CastBar"] = false,
+						},
+						["player"] = {
+							["CastBar"] = false,
+						},
+					},
+				},
+			},
+		},
+		["ag_UnitFrames_IncomingHeals"] = {
+			["profileKeys"] = {
+				["Grynch - Khadgar"] = "Default",
+			},
+			["profiles"] = {
+				["Default"] = {
+					["units"] = {
+						["mainassisttarget"] = {
+						},
+						["partytarget"] = {
+						},
+						["mainassisttargettarget"] = {
+						},
+						["maintanktarget"] = {
+						},
+					},
+				},
+			},
+		},
+		["ag_UnitFrames_Healthbar"] = {
+			["profileKeys"] = {
+				["Grynch - Khadgar"] = "Default",
+			},
+			["profiles"] = {
+				["Default"] = {
+					["units"] = {
+						["target"] = {
+							["TargetShowHostile"] = false,
+						},
+						["focustarget"] = {
+							["AggroHealth"] = true,
+						},
+						["pet"] = {
+							["ClassColorBars"] = false,
+							["AggroHealth"] = true,
+						},
+					},
+				},
+			},
+		},
+		["ag_UnitFrames_Combattext"] = {
+			["profileKeys"] = {
+				["Grynch - Khadgar"] = "Default",
+			},
+			["profiles"] = {
+				["Default"] = {
+					["units"] = {
+						["focustarget"] = {
+							["ShowCombat"] = false,
+						},
+						["targettarget"] = {
+							["ShowCombat"] = false,
+						},
+						["party"] = {
+							["ShowCombat"] = false,
+						},
+						["focus"] = {
+							["ShowCombat"] = false,
+						},
+						["target"] = {
+							["ShowCombat"] = false,
+						},
+						["pet"] = {
+							["ShowCombat"] = false,
+						},
+						["player"] = {
+							["ShowCombat"] = false,
+						},
+					},
+				},
+			},
+		},
+		["ag_UnitFrames_Portrait"] = {
+			["profileKeys"] = {
+				["Grynch - Khadgar"] = "Default",
+			},
+		},
+		["ag_UnitFrames_Rangecheck"] = {
+			["profileKeys"] = {
+				["Grynch - Khadgar"] = "Default",
+			},
+		},
+		["ag_UnitFrames_Xprepbar"] = {
+			["profileKeys"] = {
+				["Grynch - Khadgar"] = "Default",
+			},
+			["profiles"] = {
+				["Default"] = {
+					["units"] = {
+						["pet"] = {
+							["ShowXP"] = false,
+						},
+						["player"] = {
+							["ShowXP"] = false,
+							["ShowRep"] = false,
+						},
+					},
+				},
+			},
+		},
+		["ag_UnitFrames_Fivesecond"] = {
+			["profileKeys"] = {
+				["Grynch - Khadgar"] = "Default",
+			},
+			["profiles"] = {
+				["Default"] = {
+				},
+			},
+		},
+		["ag_UnitFrames_Leadericon"] = {
+			["profileKeys"] = {
+				["Grynch - Khadgar"] = "Default",
+			},
+			["profiles"] = {
+				["Default"] = {
+				},
+			},
+		},
+		["ag_UnitFrames_Raidtargeticon"] = {
+			["profileKeys"] = {
+				["Grynch - Khadgar"] = "Default",
+			},
+			["profiles"] = {
+				["Default"] = {
+				},
+			},
+		},
+		["ag_UnitFrames_Hideblizz"] = {
+			["profileKeys"] = {
+				["Grynch - Khadgar"] = "Default",
+			},
+			["profiles"] = {
+				["Default"] = {
+				},
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Grynch - Khadgar"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["Locked"] = false,
+			["Positions"] = {
+				["aUFpet"] = {
+					["y"] = 114.2370233258754,
+					["x"] = -204.7761472720029,
+					["point"] = "BOTTOM",
+					["relPoint"] = "BOTTOM",
+				},
+				["aUFplayer"] = {
+					["y"] = 74.13694450513069,
+					["x"] = -183.9057592109635,
+					["point"] = "BOTTOM",
+					["relPoint"] = "BOTTOM",
+				},
+				["party"] = {
+					["y"] = -126.6055897799096,
+					["x"] = 10.00000021305318,
+					["point"] = "TOPLEFT",
+					["relPoint"] = "TOPLEFT",
+				},
+				["aUFfocustarget"] = {
+					["y"] = 115.8540658723017,
+					["x"] = 216.503264267951,
+					["point"] = "BOTTOM",
+					["relPoint"] = "BOTTOM",
+				},
+				["aUFfocus"] = {
+					["y"] = 74.89419128203494,
+					["x"] = 201.8744003599853,
+					["point"] = "BOTTOM",
+					["relPoint"] = "BOTTOM",
+				},
+				["aUFtarget"] = {
+					["y"] = 143.5654659714747,
+					["x"] = 5.625624996065707,
+					["point"] = "BOTTOM",
+					["relPoint"] = "BOTTOM",
+				},
+				["aUFtargettarget"] = {
+					["y"] = 114.8633559715428,
+					["x"] = 8.007382383903698,
+					["point"] = "BOTTOM",
+					["relPoint"] = "BOTTOM",
+				},
+			},
+			["units"] = {
+				["targettargettarget"] = {
+				},
+				["partytarget"] = {
+				},
+				["party"] = {
+					["Scale"] = 1.1,
+					["Height"] = 59,
+					["Width"] = 141,
+				},
+				["raidpet"] = {
+				},
+				["target"] = {
+					["Scale"] = 0.95,
+					["Height"] = 52,
+				},
+				["raid"] = {
+					["enabled"] = true,
+				},
+				["pet"] = {
+					["Width"] = 134,
+					["Height"] = 42,
+				},
+				["focus"] = {
+					["enabled"] = true,
+					["Scale"] = 0.95,
+					["Height"] = 52,
+				},
+				["focustarget"] = {
+					["enabled"] = true,
+					["Scale"] = 0.9,
+					["Width"] = 159,
+					["Height"] = 42,
+				},
+				["pettarget"] = {
+				},
+				["partypet"] = {
+				},
+				["player"] = {
+					["Scale"] = 0.95,
+					["Height"] = 52,
+				},
+				["targettarget"] = {
+					["Scale"] = 0.9,
+					["Width"] = 159,
+					["Height"] = 42,
+				},
+			},
+			["subgroups"] = {
+				["group8"] = {
+				},
+				["group2"] = {
+				},
+				["group4"] = {
+				},
+				["group7"] = {
+				},
+				["group1"] = {
+				},
+			},
+		},
+	},
+}

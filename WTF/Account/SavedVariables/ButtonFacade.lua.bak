@@ -1,0 +1,20 @@
+
+ButtonFacadeDB = {
+	["namespaces"] = {
+		["ButtonTest"] = {
+			["profileKeys"] = {
+				["Locutas - Aerie Peak"] = "Locutas - Aerie Peak",
+			},
+			["profiles"] = {
+				["Locutas - Aerie Peak"] = {
+					["Unlocked"] = false,
+				},
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Locutas - Aerie Peak"] = "Locutas - Aerie Peak",
+	},
+	["profiles"] = {
+	},
+}

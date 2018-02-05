@@ -1,0 +1,13 @@
+
+DataStore_GarrisonsDB = {
+	["profileKeys"] = {
+		["Necrorage - Bloodhoof"] = "Necrorage - Bloodhoof",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.Bloodhoof.Necrorage"] = {
+				["lastUpdate"] = 1428089846,
+			},
+		},
+	},
+}

@@ -1,0 +1,43 @@
+
+BigWigsDB = {
+	["disabled"] = {
+		["Default"] = true,
+	},
+	["disabledModules"] = {
+		["Default"] = {
+			["The Curator"] = true,
+			["Custom Bars"] = true,
+			["Target Monitor"] = true,
+			["Nightbane"] = true,
+			["Attumen the Huntsman"] = true,
+			["Sounds"] = true,
+			["Comm"] = true,
+			["Tranq"] = true,
+			["Test"] = true,
+			["Moroes"] = true,
+			["RaidWarning"] = true,
+			["Messages"] = true,
+			["Terestian Illhoof"] = true,
+			["BossBlock"] = true,
+			["Proximity"] = true,
+			["Raid Icons"] = true,
+			["Flash"] = true,
+			["Hyakiss the Lurker"] = true,
+			["Version Query"] = true,
+			["Prince Malchezaar"] = true,
+			["Colors"] = true,
+			["Maiden of Virtue"] = true,
+			["Netherspite"] = true,
+			["Romulo & Julianne"] = true,
+			["Shade of Aran"] = true,
+			["Bars"] = true,
+			["The Crone"] = true,
+			["The Big Bad Wolf"] = true,
+		},
+	},
+	["minimap"] = {
+		["minimapPos"] = 168,
+		["radius"] = 80,
+	},
+}
+BigWigsFubarDB = nil

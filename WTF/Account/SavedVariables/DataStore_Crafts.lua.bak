@@ -1,0 +1,8 @@
+
+DataStore_CraftsDB = {
+	["profileKeys"] = {
+		["Pryst - Khadgar"] = "Pryst - Khadgar",
+	},
+	["global"] = {
+	},
+}

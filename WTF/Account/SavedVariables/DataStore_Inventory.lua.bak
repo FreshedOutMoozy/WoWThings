@@ -1,0 +1,34 @@
+
+DataStore_InventoryDB = {
+	["profileKeys"] = {
+		["Pryst - Khadgar"] = "Pryst - Khadgar",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.Khadgar.Pryst"] = {
+				["Inventory"] = {
+					"|cffa335ee|Hitem:47564:0:3633:3473:0:0:0:1113128384:80|h[Gaze of the Unknown]|h|r", -- [1]
+					"|cffa335ee|Hitem:47562:0:3456:0:0:0:0:-1896438912:80|h[Symbol of Redemption]|h|r", -- [2]
+					"|cffa335ee|Hitem:40289:3807:0:0:0:0:0:-1501341568:80|h[Sympathetic Amice]|h|r", -- [3]
+					3426, -- [4]
+					"|cffa335ee|Hitem:46193:1144:3520:3458:0:0:0:0:80|h[Conqueror's Robe of Sanctification]|h|r", -- [5]
+					"|cffa335ee|Hitem:39190:0:3511:0:0:0:0:-1903883520:80|h[Agonal Sash]|h|r", -- [6]
+					"|cffa335ee|Hitem:45388:3719:3455:3578:0:0:0:0:80|h[Valorous Leggings of Sanctification]|h|r", -- [7]
+					"|cffa335ee|Hitem:40750:1147:0:0:0:0:0:0:80|h[Xintor's Expeditionary Boots]|h|r", -- [8]
+					"|cffa335ee|Hitem:40198:2332:3448:0:0:0:0:1684581440:80|h[Bands of Impurity]|h|r", -- [9]
+					"|cffa335ee|Hitem:40445:3246:3672:0:0:0:0:1140990144:80|h[Valorous Gloves of Faith]|h|r", -- [10]
+					"|cffa335ee|Hitem:39193:0:0:0:0:0:0:1772771584:80|h[Band of Neglected Pleas]|h|r", -- [11]
+					"|cffa335ee|Hitem:40108:0:0:0:0:0:0:-2137628672:80|h[Seized Beauty]|h|r", -- [12]
+					"|cffa335ee|Hitem:47215:0:0:0:0:0:0:-1823729024:80|h[Tears of the Vanquished]|h|r", -- [13]
+					40430, -- [14]
+					"|cffa335ee|Hitem:40254:3825:0:0:0:0:0:1929949184:80|h[Cloak of Averted Crisis]|h|r", -- [15]
+					"|cffa335ee|Hitem:47509:3844:0:0:0:0:0:-1824871168:80|h[Mariel's Sorrow]|h|r", -- [16]
+					40699, -- [17]
+					"|cffa335ee|Hitem:39473:0:0:0:0:0:0:1940340096:80|h[Contortion]|h|r", -- [18]
+				},
+				["averageItemLvl"] = 210.5882352941177,
+				["lastUpdate"] = 1258052871,
+			},
+		},
+	},
+}
