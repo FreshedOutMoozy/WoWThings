@@ -5,3 +5,4 @@ If you were to use [Icy-Veins](https://www.icy-veins.com/wow/) to pull the lates
 Right now as far as the latest rotations go, below will be the following for rotations and will be updated per patch only:
 
 - Shamans
+- [Hunters](https://github.com/MtechMo/WoWThings/tree/master/Rotations/Hunter)
