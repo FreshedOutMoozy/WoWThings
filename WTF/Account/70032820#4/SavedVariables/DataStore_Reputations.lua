@@ -5,16 +5,16 @@ DataStore_ReputationsDB = {
 		["Thaisauce - Stormrage"] = "Thaisauce - Stormrage",
 		["Gôki - Stormrage"] = "Gôki - Stormrage",
 		["Lomatix - Stormrage"] = "Lomatix - Stormrage",
-		["Hyperiöñ - Stormrage"] = "Hyperiöñ - Stormrage",
-		["Cobala - Stormrage"] = "Cobala - Stormrage",
-		["Araura - Daggerspine"] = "Araura - Daggerspine",
-		["Héléna - Stormrage"] = "Héléna - Stormrage",
-		["Derran - Stormrage"] = "Derran - Stormrage",
-		["Septunia - Stormrage"] = "Septunia - Stormrage",
-		["Çentaurian - Stormrage"] = "Çentaurian - Stormrage",
-		["Øniækuma - Stormrage"] = "Øniækuma - Stormrage",
-		["Halja - Stormrage"] = "Halja - Stormrage",
 		["Molevia - Stormrage"] = "Molevia - Stormrage",
+		["Septunia - Stormrage"] = "Septunia - Stormrage",
+		["Araura - Daggerspine"] = "Araura - Daggerspine",
+		["Øniækuma - Stormrage"] = "Øniækuma - Stormrage",
+		["Derran - Stormrage"] = "Derran - Stormrage",
+		["Halja - Stormrage"] = "Halja - Stormrage",
+		["Çentaurian - Stormrage"] = "Çentaurian - Stormrage",
+		["Héléna - Stormrage"] = "Héléna - Stormrage",
+		["Cobala - Stormrage"] = "Cobala - Stormrage",
+		["Hyperiöñ - Stormrage"] = "Hyperiöñ - Stormrage",
 	},
 	["global"] = {
 		["Characters"] = {
@@ -45,16 +45,16 @@ DataStore_ReputationsDB = {
 					[71] = 1338,
 					[87] = 4110,
 					[72] = 1338,
-					[108] = 1100,
-					[6] = 3100,
-					[9] = 3100,
-					[37] = 5051,
-					[105] = 275,
-					[53] = 3237,
-					[121] = 325,
-					[8] = 3100,
-					[14] = 422,
 					[101] = 7812,
+					[14] = 422,
+					[8] = 3100,
+					[37] = 5051,
+					[53] = 3237,
+					[105] = 275,
+					[121] = 325,
+					[9] = 3100,
+					[6] = 3100,
+					[108] = 1100,
 				},
 			},
 			["Default.Stormrage.Gôki"] = {
@@ -84,6 +84,8 @@ DataStore_ReputationsDB = {
 			},
 			["Default.Stormrage.Cobala"] = {
 				["lastUpdate"] = 1517698112,
+				["guildName"] = "Savage Kings",
+				["guildRep"] = 3938,
 				["Factions"] = {
 					10411, -- [1]
 					12589, -- [2]
@@ -99,15 +101,15 @@ DataStore_ReputationsDB = {
 					[19] = 1161,
 					[38] = 250,
 					[21] = 21000,
-					[32] = 6825,
-					[17] = 1161,
 					[20] = 1161,
+					[17] = 1161,
+					[32] = 6825,
 				},
-				["guildRep"] = 3938,
-				["guildName"] = "Savage Kings",
 			},
 			["Default.Stormrage.Molevia"] = {
 				["lastUpdate"] = 1517749044,
+				["guildName"] = "Distinction",
+				["guildRep"] = 9075,
 				["Factions"] = {
 					6126, -- [1]
 					6026, -- [2]
@@ -119,29 +121,25 @@ DataStore_ReputationsDB = {
 					[75] = 6326,
 					[77] = 4676,
 					[19] = 4182,
-					[112] = 6126,
 					[18] = 4182,
+					[112] = 6126,
 				},
-				["guildRep"] = 9075,
-				["guildName"] = "Distinction",
 			},
-			["Default.Stormrage.Héléna"] = {
-				["lastUpdate"] = 1517886733,
+			["Default.Stormrage.Septunia"] = {
+				["lastUpdate"] = 1517866661,
 				["Factions"] = {
-					5367, -- [1]
-					5267, -- [2]
-					11076, -- [3]
-					11172, -- [4]
-					7932, -- [5]
-					[112] = 5367,
-					[77] = 2267,
-					[75] = 5567,
+					3237, -- [1]
+					3137, -- [2]
+					3237, -- [3]
+					3237, -- [4]
+					4550, -- [5]
+					[112] = 3237,
+					[77] = 137,
+					[75] = 3437,
 				},
 			},
 			["Default.Stormrage.Øniækuma"] = {
 				["lastUpdate"] = 1517831597,
-				["guildName"] = "Not a Bank Guild",
-				["guildRep"] = 11687,
 				["Factions"] = {
 					8186, -- [1]
 					8086, -- [2]
@@ -153,9 +151,11 @@ DataStore_ReputationsDB = {
 					[75] = 8386,
 					[77] = 8984,
 					[19] = 1380,
-					[112] = 8186,
 					[18] = 1380,
+					[112] = 8186,
 				},
+				["guildRep"] = 11687,
+				["guildName"] = "Not a Bank Guild",
 			},
 			["Default.Stormrage.Hyperiöñ"] = {
 				["lastUpdate"] = 1517697657,
@@ -195,18 +195,6 @@ DataStore_ReputationsDB = {
 					[75] = 3818,
 				},
 			},
-			["Default.Stormrage.Thaisauce"] = {
-				["lastUpdate"] = 1517831724,
-				["Factions"] = {
-					3100, -- [1]
-					3000, -- [2]
-					3100, -- [3]
-					3100, -- [4]
-					4000, -- [5]
-					[75] = 3300,
-					[112] = 3100,
-				},
-			},
 			["Default.Stormrage.Lomatix"] = {
 				["lastUpdate"] = 1517697856,
 				["Factions"] = {
@@ -215,6 +203,18 @@ DataStore_ReputationsDB = {
 					4000, -- [3]
 					3100, -- [4]
 					3100, -- [5]
+					[75] = 3300,
+					[112] = 3100,
+				},
+			},
+			["Default.Stormrage.Thaisauce"] = {
+				["lastUpdate"] = 1517831724,
+				["Factions"] = {
+					3100, -- [1]
+					3000, -- [2]
+					3100, -- [3]
+					3100, -- [4]
+					4000, -- [5]
 					[75] = 3300,
 					[112] = 3100,
 				},
@@ -232,17 +232,19 @@ DataStore_ReputationsDB = {
 					[75] = 3818,
 				},
 			},
-			["Default.Stormrage.Septunia"] = {
-				["lastUpdate"] = 1517866661,
+			["Default.Stormrage.Héléna"] = {
+				["lastUpdate"] = 1517949832,
+				["guildName"] = "Forgotten Souls",
+				["guildRep"] = 825,
 				["Factions"] = {
-					3237, -- [1]
-					3137, -- [2]
-					3237, -- [3]
-					3237, -- [4]
-					4550, -- [5]
-					[112] = 3237,
-					[77] = 137,
-					[75] = 3437,
+					7534, -- [1]
+					7434, -- [2]
+					11884, -- [3]
+					18031, -- [4]
+					9915, -- [5]
+					[112] = 7534,
+					[77] = 4434,
+					[75] = 7734,
 				},
 			},
 		},

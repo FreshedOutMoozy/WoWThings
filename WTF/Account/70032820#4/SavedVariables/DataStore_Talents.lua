@@ -5,16 +5,16 @@ DataStore_TalentsDB = {
 		["Thaisauce - Stormrage"] = "Thaisauce - Stormrage",
 		["Gôki - Stormrage"] = "Gôki - Stormrage",
 		["Lomatix - Stormrage"] = "Lomatix - Stormrage",
-		["Hyperiöñ - Stormrage"] = "Hyperiöñ - Stormrage",
-		["Cobala - Stormrage"] = "Cobala - Stormrage",
-		["Araura - Daggerspine"] = "Araura - Daggerspine",
-		["Héléna - Stormrage"] = "Héléna - Stormrage",
-		["Derran - Stormrage"] = "Derran - Stormrage",
-		["Septunia - Stormrage"] = "Septunia - Stormrage",
-		["Çentaurian - Stormrage"] = "Çentaurian - Stormrage",
-		["Øniækuma - Stormrage"] = "Øniækuma - Stormrage",
-		["Halja - Stormrage"] = "Halja - Stormrage",
 		["Molevia - Stormrage"] = "Molevia - Stormrage",
+		["Septunia - Stormrage"] = "Septunia - Stormrage",
+		["Araura - Daggerspine"] = "Araura - Daggerspine",
+		["Øniækuma - Stormrage"] = "Øniækuma - Stormrage",
+		["Derran - Stormrage"] = "Derran - Stormrage",
+		["Halja - Stormrage"] = "Halja - Stormrage",
+		["Çentaurian - Stormrage"] = "Çentaurian - Stormrage",
+		["Héléna - Stormrage"] = "Héléna - Stormrage",
+		["Cobala - Stormrage"] = "Cobala - Stormrage",
+		["Hyperiöñ - Stormrage"] = "Hyperiöñ - Stormrage",
 	},
 	["global"] = {
 		["Characters"] = {
@@ -56,19 +56,19 @@ DataStore_TalentsDB = {
 				},
 				["Class"] = "PRIEST",
 			},
-			["Default.Stormrage.Héléna"] = {
-				["lastUpdate"] = 1517886750,
-				["Specializations"] = {
-					2, -- [1]
-				},
-				["Class"] = "HUNTER",
-			},
 			["Default.Stormrage.Gôki"] = {
 				["lastUpdate"] = 1517698332,
 				["Specializations"] = {
 					[2] = 3,
 				},
 				["Class"] = "SHAMAN",
+			},
+			["Default.Stormrage.Héléna"] = {
+				["lastUpdate"] = 1517948102,
+				["Specializations"] = {
+					2, -- [1]
+				},
+				["Class"] = "HUNTER",
 			},
 		},
 	},
@@ -79,16 +79,16 @@ DataStore_TalentsRefDB = {
 		["Thaisauce - Stormrage"] = "Thaisauce - Stormrage",
 		["Gôki - Stormrage"] = "Gôki - Stormrage",
 		["Lomatix - Stormrage"] = "Lomatix - Stormrage",
-		["Hyperiöñ - Stormrage"] = "Hyperiöñ - Stormrage",
-		["Cobala - Stormrage"] = "Cobala - Stormrage",
-		["Araura - Daggerspine"] = "Araura - Daggerspine",
-		["Héléna - Stormrage"] = "Héléna - Stormrage",
-		["Derran - Stormrage"] = "Derran - Stormrage",
-		["Septunia - Stormrage"] = "Septunia - Stormrage",
-		["Çentaurian - Stormrage"] = "Çentaurian - Stormrage",
-		["Øniækuma - Stormrage"] = "Øniækuma - Stormrage",
-		["Halja - Stormrage"] = "Halja - Stormrage",
 		["Molevia - Stormrage"] = "Molevia - Stormrage",
+		["Septunia - Stormrage"] = "Septunia - Stormrage",
+		["Araura - Daggerspine"] = "Araura - Daggerspine",
+		["Øniækuma - Stormrage"] = "Øniækuma - Stormrage",
+		["Derran - Stormrage"] = "Derran - Stormrage",
+		["Halja - Stormrage"] = "Halja - Stormrage",
+		["Çentaurian - Stormrage"] = "Çentaurian - Stormrage",
+		["Héléna - Stormrage"] = "Héléna - Stormrage",
+		["Cobala - Stormrage"] = "Cobala - Stormrage",
+		["Hyperiöñ - Stormrage"] = "Hyperiöñ - Stormrage",
 	},
 	["global"] = {
 		["HUNTER"] = {

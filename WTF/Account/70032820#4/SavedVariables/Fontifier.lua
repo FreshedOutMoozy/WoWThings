@@ -1,23 +1,23 @@
 
 FontifierDB = {
+	["global"] = {
+		["Version"] = 1,
+	},
 	["profileKeys"] = {
 		["Qüançhi - Stormrage"] = "Default",
 		["Thaisauce - Stormrage"] = "Default",
 		["Gôki - Stormrage"] = "Default",
 		["Lomatix - Stormrage"] = "Default",
-		["Hyperiöñ - Stormrage"] = "Default",
-		["Cobala - Stormrage"] = "Default",
-		["Araura - Daggerspine"] = "Default",
-		["Héléna - Stormrage"] = "Default",
-		["Derran - Stormrage"] = "Default",
-		["Septunia - Stormrage"] = "Default",
-		["Çentaurian - Stormrage"] = "Default",
-		["Øniækuma - Stormrage"] = "Default",
-		["Halja - Stormrage"] = "Default",
 		["Molevia - Stormrage"] = "Default",
-	},
-	["global"] = {
-		["Version"] = 1,
+		["Septunia - Stormrage"] = "Default",
+		["Araura - Daggerspine"] = "Default",
+		["Øniækuma - Stormrage"] = "Default",
+		["Derran - Stormrage"] = "Default",
+		["Halja - Stormrage"] = "Default",
+		["Çentaurian - Stormrage"] = "Default",
+		["Héléna - Stormrage"] = "Default",
+		["Cobala - Stormrage"] = "Default",
+		["Hyperiöñ - Stormrage"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

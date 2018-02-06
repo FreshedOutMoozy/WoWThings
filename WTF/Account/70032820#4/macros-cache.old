@@ -11,6 +11,10 @@ VER 3 0000000000000008 "Fel" "INV_STAFF_2H_PANDUNG_C_01.BLP"
 /equip [Admiral Taylor's Staff of Wisdom ]
 /cast shoot
 END
+VER 3 0000000000000011 "Fishing" "132932"
+#showtooltip Fishing
+/Fishing
+END
 VER 3 0000000000000002 "GuildLFR" "INV_MISC_QUESTIONMARK"
 /run local a,b,c,d,t,h,r,l,z;a,b=UnitClass("player");c=UnitLevel("player");l,t,h,d=GetLFGRoles();r="";if d then r=r.."DPS " end;if t then r=r.."TANK " end;if h then r=r.."HEALER" end;z= a.." LEVEL "..c.." LFG RDF "..r;SendChatMessage(z,"GUILD",nil,4)
 END
@@ -53,5 +57,9 @@ END
 VER 3 0000000000000009 "Two Totems" "SPELL_FIRE_FLAMESHOCK"
 /castsequence Searing Totem(Fire Totem), Earthbind Totem(Earth Totem, Thunderstorm
 END
-VER 3 000000000000000F "ZygorAction1" "134400"
+VER 3 000000000000000F "ZygorAction1" "136091"
+#showtooltip Sturdy Manacles
+/use Sturdy Manacles
+END
+VER 3 0000000000000012 "ZygorAction2" "134400"
 END

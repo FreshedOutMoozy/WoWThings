@@ -5,16 +5,16 @@ DataStore_CurrenciesDB = {
 		["Thaisauce - Stormrage"] = "Thaisauce - Stormrage",
 		["Gôki - Stormrage"] = "Gôki - Stormrage",
 		["Lomatix - Stormrage"] = "Lomatix - Stormrage",
-		["Molevia - Stormrage"] = "Molevia - Stormrage",
-		["Septunia - Stormrage"] = "Septunia - Stormrage",
+		["Hyperiöñ - Stormrage"] = "Hyperiöñ - Stormrage",
+		["Çentaurian - Stormrage"] = "Çentaurian - Stormrage",
 		["Araura - Daggerspine"] = "Araura - Daggerspine",
-		["Øniækuma - Stormrage"] = "Øniækuma - Stormrage",
+		["Héléna - Stormrage"] = "Héléna - Stormrage",
 		["Derran - Stormrage"] = "Derran - Stormrage",
 		["Halja - Stormrage"] = "Halja - Stormrage",
-		["Çentaurian - Stormrage"] = "Çentaurian - Stormrage",
-		["Héléna - Stormrage"] = "Héléna - Stormrage",
 		["Cobala - Stormrage"] = "Cobala - Stormrage",
-		["Hyperiöñ - Stormrage"] = "Hyperiöñ - Stormrage",
+		["Øniækuma - Stormrage"] = "Øniækuma - Stormrage",
+		["Septunia - Stormrage"] = "Septunia - Stormrage",
+		["Molevia - Stormrage"] = "Molevia - Stormrage",
 	},
 	["global"] = {
 		["Characters"] = {
@@ -149,8 +149,32 @@ DataStore_CurrenciesDB = {
 					[1342] = "0-0-0-0",
 				},
 			},
-			["Default.Stormrage.Septunia"] = {
-				["lastUpdate"] = 1517866661,
+			["Default.Stormrage.Héléna"] = {
+				["lastUpdate"] = 1517928165,
+				["Archeology"] = {
+					0, -- [1]
+					0, -- [2]
+					0, -- [3]
+					0, -- [4]
+					0, -- [5]
+					0, -- [6]
+					0, -- [7]
+					0, -- [8]
+					0, -- [9]
+					0, -- [10]
+					0, -- [11]
+					0, -- [12]
+					0, -- [13]
+					0, -- [14]
+					0, -- [15]
+					0, -- [16]
+					0, -- [17]
+					0, -- [18]
+				},
+				["Currencies"] = {
+					25, -- [1]
+					156, -- [2]
+				},
 				["CurrencyInfo"] = {
 					[395] = "0-0-0-0",
 					[1220] = "0-0-0-0",
@@ -243,8 +267,8 @@ DataStore_CurrenciesDB = {
 					[1342] = "0-0-0-0",
 				},
 			},
-			["Default.Stormrage.Lomatix"] = {
-				["lastUpdate"] = 1517697856,
+			["Default.Stormrage.Thaisauce"] = {
+				["lastUpdate"] = 1517831725,
 				["CurrencyInfo"] = {
 					[395] = "0-0-0-0",
 					[1220] = "0-0-0-0",
@@ -257,8 +281,8 @@ DataStore_CurrenciesDB = {
 					[1342] = "0-0-0-0",
 				},
 			},
-			["Default.Stormrage.Thaisauce"] = {
-				["lastUpdate"] = 1517831725,
+			["Default.Stormrage.Lomatix"] = {
+				["lastUpdate"] = 1517697856,
 				["CurrencyInfo"] = {
 					[395] = "0-0-0-0",
 					[1220] = "0-0-0-0",
@@ -285,32 +309,8 @@ DataStore_CurrenciesDB = {
 					[1342] = "0-0-0-0",
 				},
 			},
-			["Default.Stormrage.Héléna"] = {
-				["lastUpdate"] = 1517873717,
-				["Archeology"] = {
-					0, -- [1]
-					0, -- [2]
-					0, -- [3]
-					0, -- [4]
-					0, -- [5]
-					0, -- [6]
-					0, -- [7]
-					0, -- [8]
-					0, -- [9]
-					0, -- [10]
-					0, -- [11]
-					0, -- [12]
-					0, -- [13]
-					0, -- [14]
-					0, -- [15]
-					0, -- [16]
-					0, -- [17]
-					0, -- [18]
-				},
-				["Currencies"] = {
-					25, -- [1]
-					156, -- [2]
-				},
+			["Default.Stormrage.Septunia"] = {
+				["lastUpdate"] = 1517866661,
 				["CurrencyInfo"] = {
 					[395] = "0-0-0-0",
 					[1220] = "0-0-0-0",
@@ -344,17 +344,17 @@ DataStore_CurrenciesDB = {
 			["CurrencyTextRev"] = {
 				["Brawler's Gold"] = 14,
 				["Bloody Coin"] = 8,
-				["Lesser Charm of Good Fortune"] = 9,
-				["Warlords of Draenor"] = 3,
-				["Order Resources"] = 13,
 				["Dungeon and Raid"] = 1,
+				["Lesser Charm of Good Fortune"] = 9,
+				["Order Resources"] = 13,
+				["Timeless Coin"] = 10,
 				["Garrison Resources"] = 6,
 				["Apexis Crystal"] = 4,
 				["Artifact Fragment"] = 5,
 				["Warforged Seal"] = 11,
 				["Mists of Pandaria"] = 7,
 				["Legion"] = 12,
-				["Timeless Coin"] = 10,
+				["Warlords of Draenor"] = 3,
 				["Timewarped Badge"] = 2,
 			},
 		},

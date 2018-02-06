@@ -5,46 +5,40 @@ DataStore_AuctionsDB = {
 		["Thaisauce - Stormrage"] = "Thaisauce - Stormrage",
 		["Gôki - Stormrage"] = "Gôki - Stormrage",
 		["Lomatix - Stormrage"] = "Lomatix - Stormrage",
-		["Hyperiöñ - Stormrage"] = "Hyperiöñ - Stormrage",
-		["Cobala - Stormrage"] = "Cobala - Stormrage",
-		["Araura - Daggerspine"] = "Araura - Daggerspine",
-		["Héléna - Stormrage"] = "Héléna - Stormrage",
-		["Derran - Stormrage"] = "Derran - Stormrage",
-		["Septunia - Stormrage"] = "Septunia - Stormrage",
-		["Çentaurian - Stormrage"] = "Çentaurian - Stormrage",
-		["Øniækuma - Stormrage"] = "Øniækuma - Stormrage",
-		["Halja - Stormrage"] = "Halja - Stormrage",
 		["Molevia - Stormrage"] = "Molevia - Stormrage",
+		["Septunia - Stormrage"] = "Septunia - Stormrage",
+		["Araura - Daggerspine"] = "Araura - Daggerspine",
+		["Øniækuma - Stormrage"] = "Øniækuma - Stormrage",
+		["Derran - Stormrage"] = "Derran - Stormrage",
+		["Halja - Stormrage"] = "Halja - Stormrage",
+		["Çentaurian - Stormrage"] = "Çentaurian - Stormrage",
+		["Héléna - Stormrage"] = "Héléna - Stormrage",
+		["Cobala - Stormrage"] = "Cobala - Stormrage",
+		["Hyperiöñ - Stormrage"] = "Hyperiöñ - Stormrage",
 	},
 	["global"] = {
 		["Characters"] = {
 			["Default.Stormrage.Héléna"] = {
-				["lastUpdate"] = 1517872959,
+				["lastUpdate"] = 1517932357,
 				["Auctions"] = {
 					"0|110638|1||10032000|10560000|4", -- [1]
-					"0|110638|1||10032000|10560000|4", -- [2]
-					"0|68134|1||4747625|4997500|4", -- [3]
-					"0|127035|1||3087500|3250000|4", -- [4]
-					"0|127035|1||3087500|3250000|4", -- [5]
-					"0|127035|1||3040000|3200000|4", -- [6]
-					"0|127035|1||3040000|3200000|4", -- [7]
-					"0|4656|5||5486250|5775000|4", -- [8]
-					"0|3609|1||208|219|4", -- [9]
+					"0|4656|5||5486250|5775000|4", -- [2]
+					"0|68134|1||4742875|4992500|4", -- [3]
+					"0|2888|5||351500|370000|4", -- [4]
+					"0|117|14||35910|37800|4", -- [5]
+					"0|4540|5||375|395|4", -- [6]
+					"0|2672|12||5118600|5388000|4", -- [7]
+					"0|769|4||41800|44000|4", -- [8]
+					"0|2318|1||9880|10400|4", -- [9]
+					"0|2934|1||3420|3600|4", -- [10]
+					"0|2889|1||265050|279000|4", -- [11]
+					"0|774|1||1705|1795|4", -- [12]
+					"0|2962|1||3602244|3791836|4", -- [13]
 				},
-				["lastVisitDate"] = "2018/02/05 18:22",
+				["lastVisitDate"] = "2018/02/06 10:52",
 			},
 			["Default.Stormrage.Molevia"] = {
 				["lastUpdate"] = 1517749847,
-				["Auctions"] = {
-					"1|2321|50||484500|510000|4", -- [1]
-					"1|4410|1||950000|1000000|4", -- [2]
-					"1|2589|12||11508|12120|4", -- [3]
-					"1|1015|4||30020|31600|4", -- [4]
-					"1|12202|7||2037|2149|4", -- [5]
-					"0|2321|50||484500|510000|4", -- [6]
-					"0|4410|1||950000|1000000|4", -- [7]
-					"0|1015|4||30020|31600|4", -- [8]
-				},
 				["lastVisitDate"] = "2018/02/04 08:10",
 			},
 			["Default.Stormrage.Øniækuma"] = {

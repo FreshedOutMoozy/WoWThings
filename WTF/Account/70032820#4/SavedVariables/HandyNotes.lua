@@ -5,16 +5,16 @@ HandyNotesDB = {
 		["Thaisauce - Stormrage"] = "Thaisauce - Stormrage",
 		["Gôki - Stormrage"] = "Gôki - Stormrage",
 		["Lomatix - Stormrage"] = "Lomatix - Stormrage",
-		["Hyperiöñ - Stormrage"] = "Hyperiöñ - Stormrage",
-		["Cobala - Stormrage"] = "Cobala - Stormrage",
-		["Araura - Daggerspine"] = "Araura - Daggerspine",
-		["Héléna - Stormrage"] = "Héléna - Stormrage",
-		["Derran - Stormrage"] = "Derran - Stormrage",
-		["Septunia - Stormrage"] = "Septunia - Stormrage",
-		["Çentaurian - Stormrage"] = "Çentaurian - Stormrage",
-		["Øniækuma - Stormrage"] = "Øniækuma - Stormrage",
-		["Halja - Stormrage"] = "Halja - Stormrage",
 		["Molevia - Stormrage"] = "Molevia - Stormrage",
+		["Septunia - Stormrage"] = "Septunia - Stormrage",
+		["Araura - Daggerspine"] = "Araura - Daggerspine",
+		["Øniækuma - Stormrage"] = "Øniækuma - Stormrage",
+		["Derran - Stormrage"] = "Derran - Stormrage",
+		["Halja - Stormrage"] = "Halja - Stormrage",
+		["Çentaurian - Stormrage"] = "Çentaurian - Stormrage",
+		["Héléna - Stormrage"] = "Héléna - Stormrage",
+		["Cobala - Stormrage"] = "Cobala - Stormrage",
+		["Hyperiöñ - Stormrage"] = "Hyperiöñ - Stormrage",
 	},
 	["profiles"] = {
 		["Qüançhi - Stormrage"] = {
@@ -25,25 +25,25 @@ HandyNotesDB = {
 		},
 		["Lomatix - Stormrage"] = {
 		},
-		["Hyperiöñ - Stormrage"] = {
-		},
-		["Cobala - Stormrage"] = {
-		},
-		["Araura - Daggerspine"] = {
-		},
-		["Héléna - Stormrage"] = {
-		},
-		["Derran - Stormrage"] = {
+		["Molevia - Stormrage"] = {
 		},
 		["Septunia - Stormrage"] = {
 		},
-		["Çentaurian - Stormrage"] = {
+		["Araura - Daggerspine"] = {
 		},
 		["Øniækuma - Stormrage"] = {
 		},
+		["Derran - Stormrage"] = {
+		},
 		["Halja - Stormrage"] = {
 		},
-		["Molevia - Stormrage"] = {
+		["Çentaurian - Stormrage"] = {
+		},
+		["Héléna - Stormrage"] = {
+		},
+		["Cobala - Stormrage"] = {
+		},
+		["Hyperiöñ - Stormrage"] = {
 		},
 	},
 }
@@ -53,16 +53,16 @@ HandyNotes_HandyNotesDB = {
 		["Thaisauce - Stormrage"] = "Thaisauce - Stormrage",
 		["Gôki - Stormrage"] = "Gôki - Stormrage",
 		["Lomatix - Stormrage"] = "Lomatix - Stormrage",
-		["Hyperiöñ - Stormrage"] = "Hyperiöñ - Stormrage",
-		["Cobala - Stormrage"] = "Cobala - Stormrage",
-		["Araura - Daggerspine"] = "Araura - Daggerspine",
-		["Héléna - Stormrage"] = "Héléna - Stormrage",
-		["Derran - Stormrage"] = "Derran - Stormrage",
-		["Septunia - Stormrage"] = "Septunia - Stormrage",
-		["Çentaurian - Stormrage"] = "Çentaurian - Stormrage",
-		["Øniækuma - Stormrage"] = "Øniækuma - Stormrage",
-		["Halja - Stormrage"] = "Halja - Stormrage",
 		["Molevia - Stormrage"] = "Molevia - Stormrage",
+		["Septunia - Stormrage"] = "Septunia - Stormrage",
+		["Araura - Daggerspine"] = "Araura - Daggerspine",
+		["Øniækuma - Stormrage"] = "Øniækuma - Stormrage",
+		["Derran - Stormrage"] = "Derran - Stormrage",
+		["Halja - Stormrage"] = "Halja - Stormrage",
+		["Çentaurian - Stormrage"] = "Çentaurian - Stormrage",
+		["Héléna - Stormrage"] = "Héléna - Stormrage",
+		["Cobala - Stormrage"] = "Cobala - Stormrage",
+		["Hyperiöñ - Stormrage"] = "Hyperiöñ - Stormrage",
 	},
 	["profiles"] = {
 		["Qüançhi - Stormrage"] = {
@@ -73,25 +73,25 @@ HandyNotes_HandyNotesDB = {
 		},
 		["Lomatix - Stormrage"] = {
 		},
-		["Hyperiöñ - Stormrage"] = {
-		},
-		["Cobala - Stormrage"] = {
-		},
-		["Araura - Daggerspine"] = {
-		},
-		["Héléna - Stormrage"] = {
-		},
-		["Derran - Stormrage"] = {
+		["Molevia - Stormrage"] = {
 		},
 		["Septunia - Stormrage"] = {
 		},
-		["Çentaurian - Stormrage"] = {
+		["Araura - Daggerspine"] = {
 		},
 		["Øniækuma - Stormrage"] = {
 		},
+		["Derran - Stormrage"] = {
+		},
 		["Halja - Stormrage"] = {
 		},
-		["Molevia - Stormrage"] = {
+		["Çentaurian - Stormrage"] = {
+		},
+		["Héléna - Stormrage"] = {
+		},
+		["Cobala - Stormrage"] = {
+		},
+		["Hyperiöñ - Stormrage"] = {
 		},
 	},
 }

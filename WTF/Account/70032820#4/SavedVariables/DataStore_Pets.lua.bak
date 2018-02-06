@@ -5,16 +5,16 @@ DataStore_PetsDB = {
 		["Thaisauce - Stormrage"] = "Thaisauce - Stormrage",
 		["Gôki - Stormrage"] = "Gôki - Stormrage",
 		["Lomatix - Stormrage"] = "Lomatix - Stormrage",
-		["Molevia - Stormrage"] = "Molevia - Stormrage",
-		["Septunia - Stormrage"] = "Septunia - Stormrage",
+		["Hyperiöñ - Stormrage"] = "Hyperiöñ - Stormrage",
+		["Çentaurian - Stormrage"] = "Çentaurian - Stormrage",
 		["Araura - Daggerspine"] = "Araura - Daggerspine",
-		["Øniækuma - Stormrage"] = "Øniækuma - Stormrage",
+		["Héléna - Stormrage"] = "Héléna - Stormrage",
 		["Derran - Stormrage"] = "Derran - Stormrage",
 		["Halja - Stormrage"] = "Halja - Stormrage",
-		["Çentaurian - Stormrage"] = "Çentaurian - Stormrage",
-		["Héléna - Stormrage"] = "Héléna - Stormrage",
 		["Cobala - Stormrage"] = "Cobala - Stormrage",
-		["Hyperiöñ - Stormrage"] = "Hyperiöñ - Stormrage",
+		["Øniækuma - Stormrage"] = "Øniækuma - Stormrage",
+		["Septunia - Stormrage"] = "Septunia - Stormrage",
+		["Molevia - Stormrage"] = "Molevia - Stormrage",
 	},
 	["global"] = {
 		["Characters"] = {
@@ -50,8 +50,8 @@ DataStore_PetsDB = {
 					10684, -- [2]
 				},
 			},
-			["Default.Stormrage.Septunia"] = {
-				["lastUpdate"] = 1517866661,
+			["Default.Stormrage.Héléna"] = {
+				["lastUpdate"] = 1517928190,
 			},
 			["Default.Stormrage.Øniækuma"] = {
 				["lastUpdate"] = 1517831597,
@@ -68,17 +68,17 @@ DataStore_PetsDB = {
 			["Default.Stormrage.Derran"] = {
 				["lastUpdate"] = 1517697931,
 			},
-			["Default.Stormrage.Lomatix"] = {
-				["lastUpdate"] = 1517697856,
-			},
 			["Default.Stormrage.Thaisauce"] = {
 				["lastUpdate"] = 1517831724,
+			},
+			["Default.Stormrage.Lomatix"] = {
+				["lastUpdate"] = 1517697856,
 			},
 			["Default.Stormrage.Halja"] = {
 				["lastUpdate"] = 1517864786,
 			},
-			["Default.Stormrage.Héléna"] = {
-				["lastUpdate"] = 1517876753,
+			["Default.Stormrage.Septunia"] = {
+				["lastUpdate"] = 1517866661,
 			},
 		},
 		["Reference"] = {
@@ -88,13 +88,13 @@ DataStore_PetsDB = {
 				[169695] = 84915,
 				[122748] = 62829,
 				[168668] = 84330,
-				[170269] = 86081,
+				[10695] = 7543,
 				[10684] = 7389,
 				[70613] = 37865,
 				[164212] = 81431,
 				[155748] = 77137,
 				[170270] = 86447,
-				[10695] = 7543,
+				[170269] = 86081,
 			},
 		},
 	},

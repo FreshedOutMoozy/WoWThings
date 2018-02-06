@@ -5,16 +5,16 @@ DataStoreDB = {
 		["Thaisauce - Stormrage"] = "Thaisauce - Stormrage",
 		["Gôki - Stormrage"] = "Gôki - Stormrage",
 		["Lomatix - Stormrage"] = "Lomatix - Stormrage",
-		["Hyperiöñ - Stormrage"] = "Hyperiöñ - Stormrage",
-		["Cobala - Stormrage"] = "Cobala - Stormrage",
-		["Araura - Daggerspine"] = "Araura - Daggerspine",
-		["Héléna - Stormrage"] = "Héléna - Stormrage",
-		["Derran - Stormrage"] = "Derran - Stormrage",
-		["Septunia - Stormrage"] = "Septunia - Stormrage",
-		["Çentaurian - Stormrage"] = "Çentaurian - Stormrage",
-		["Øniækuma - Stormrage"] = "Øniækuma - Stormrage",
-		["Halja - Stormrage"] = "Halja - Stormrage",
 		["Molevia - Stormrage"] = "Molevia - Stormrage",
+		["Septunia - Stormrage"] = "Septunia - Stormrage",
+		["Araura - Daggerspine"] = "Araura - Daggerspine",
+		["Øniækuma - Stormrage"] = "Øniækuma - Stormrage",
+		["Derran - Stormrage"] = "Derran - Stormrage",
+		["Halja - Stormrage"] = "Halja - Stormrage",
+		["Çentaurian - Stormrage"] = "Çentaurian - Stormrage",
+		["Héléna - Stormrage"] = "Héléna - Stormrage",
+		["Cobala - Stormrage"] = "Cobala - Stormrage",
+		["Hyperiöñ - Stormrage"] = "Hyperiöñ - Stormrage",
 	},
 	["global"] = {
 		["Guilds"] = {
@@ -22,6 +22,9 @@ DataStoreDB = {
 				["faction"] = "Alliance",
 			},
 			["Default.Stormrage.Distinction"] = {
+				["faction"] = "Alliance",
+			},
+			["Default.Stormrage.Forgotten Souls"] = {
 				["faction"] = "Alliance",
 			},
 			["Default.Stormrage.Not a Bank Guild"] = {
@@ -40,14 +43,14 @@ DataStoreDB = {
 				["faction"] = "Alliance",
 			},
 			["Default.Stormrage.Cobala"] = {
-				["faction"] = "Alliance",
 				["guildName"] = "Savage Kings",
+				["faction"] = "Alliance",
 			},
 			["Default.Stormrage.Molevia"] = {
-				["faction"] = "Alliance",
 				["guildName"] = "Distinction",
+				["faction"] = "Alliance",
 			},
-			["Default.Stormrage.Héléna"] = {
+			["Default.Stormrage.Septunia"] = {
 				["faction"] = "Alliance",
 			},
 			["Default.Stormrage.Øniækuma"] = {
@@ -62,16 +65,17 @@ DataStoreDB = {
 			["Default.Stormrage.Derran"] = {
 				["faction"] = "Alliance",
 			},
-			["Default.Stormrage.Thaisauce"] = {
+			["Default.Stormrage.Lomatix"] = {
 				["faction"] = "Alliance",
 			},
-			["Default.Stormrage.Lomatix"] = {
+			["Default.Stormrage.Thaisauce"] = {
 				["faction"] = "Alliance",
 			},
 			["Default.Stormrage.Halja"] = {
 				["faction"] = "Alliance",
 			},
-			["Default.Stormrage.Septunia"] = {
+			["Default.Stormrage.Héléna"] = {
+				["guildName"] = "Forgotten Souls",
 				["faction"] = "Alliance",
 			},
 		},

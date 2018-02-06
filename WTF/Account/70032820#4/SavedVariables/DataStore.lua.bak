@@ -5,16 +5,16 @@ DataStoreDB = {
 		["Thaisauce - Stormrage"] = "Thaisauce - Stormrage",
 		["Gôki - Stormrage"] = "Gôki - Stormrage",
 		["Lomatix - Stormrage"] = "Lomatix - Stormrage",
-		["Molevia - Stormrage"] = "Molevia - Stormrage",
-		["Septunia - Stormrage"] = "Septunia - Stormrage",
+		["Hyperiöñ - Stormrage"] = "Hyperiöñ - Stormrage",
+		["Çentaurian - Stormrage"] = "Çentaurian - Stormrage",
 		["Araura - Daggerspine"] = "Araura - Daggerspine",
-		["Øniækuma - Stormrage"] = "Øniækuma - Stormrage",
+		["Héléna - Stormrage"] = "Héléna - Stormrage",
 		["Derran - Stormrage"] = "Derran - Stormrage",
 		["Halja - Stormrage"] = "Halja - Stormrage",
-		["Çentaurian - Stormrage"] = "Çentaurian - Stormrage",
-		["Héléna - Stormrage"] = "Héléna - Stormrage",
 		["Cobala - Stormrage"] = "Cobala - Stormrage",
-		["Hyperiöñ - Stormrage"] = "Hyperiöñ - Stormrage",
+		["Øniækuma - Stormrage"] = "Øniækuma - Stormrage",
+		["Septunia - Stormrage"] = "Septunia - Stormrage",
+		["Molevia - Stormrage"] = "Molevia - Stormrage",
 	},
 	["global"] = {
 		["Guilds"] = {
@@ -40,14 +40,14 @@ DataStoreDB = {
 				["faction"] = "Alliance",
 			},
 			["Default.Stormrage.Cobala"] = {
-				["guildName"] = "Savage Kings",
 				["faction"] = "Alliance",
+				["guildName"] = "Savage Kings",
 			},
 			["Default.Stormrage.Molevia"] = {
-				["guildName"] = "Distinction",
 				["faction"] = "Alliance",
+				["guildName"] = "Distinction",
 			},
-			["Default.Stormrage.Septunia"] = {
+			["Default.Stormrage.Héléna"] = {
 				["faction"] = "Alliance",
 			},
 			["Default.Stormrage.Øniækuma"] = {
@@ -62,16 +62,16 @@ DataStoreDB = {
 			["Default.Stormrage.Derran"] = {
 				["faction"] = "Alliance",
 			},
-			["Default.Stormrage.Lomatix"] = {
+			["Default.Stormrage.Thaisauce"] = {
 				["faction"] = "Alliance",
 			},
-			["Default.Stormrage.Thaisauce"] = {
+			["Default.Stormrage.Lomatix"] = {
 				["faction"] = "Alliance",
 			},
 			["Default.Stormrage.Halja"] = {
 				["faction"] = "Alliance",
 			},
-			["Default.Stormrage.Héléna"] = {
+			["Default.Stormrage.Septunia"] = {
 				["faction"] = "Alliance",
 			},
 		},

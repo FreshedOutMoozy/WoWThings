@@ -9,8 +9,8 @@ BigWigs3DB = {
 			["profiles"] = {
 				["Default"] = {
 					["font"] = "Friz Quadrata TT",
-					["fontOutline"] = "",
 					["fontSize"] = 10,
+					["fontOutline"] = "",
 				},
 			},
 		},
@@ -19,13 +19,13 @@ BigWigs3DB = {
 		["BigWigs_Plugins_Bars"] = {
 			["profiles"] = {
 				["Default"] = {
+					["BigWigsAnchor_width"] = 200.000045776367,
 					["BigWigsEmphasizeAnchor_width"] = 300.000030517578,
 					["font"] = "Friz Quadrata TT",
-					["BigWigsAnchor_width"] = 200.000045776367,
 				},
 			},
 		},
-		["BigWigs_Plugins_Raid Icons"] = {
+		["BigWigs_Plugins_InfoBox"] = {
 		},
 		["BigWigs_Plugins_Super Emphasize"] = {
 			["profiles"] = {
@@ -45,31 +45,31 @@ BigWigs3DB = {
 		["BigWigs_Plugins_Messages"] = {
 			["profiles"] = {
 				["Default"] = {
-					["fontSize"] = 17.9999980926514,
 					["font"] = "Friz Quadrata TT",
+					["fontSize"] = 17.9999980926514,
 				},
 			},
 		},
 		["BigWigs_Plugins_Proximity"] = {
 			["profiles"] = {
 				["Default"] = {
-					["fontSize"] = 17.9999980926514,
 					["font"] = "Friz Quadrata TT",
+					["fontSize"] = 17.9999980926514,
 				},
 			},
 		},
 		["BigWigs_Plugins_Pull"] = {
 		},
-		["BigWigs_Plugins_InfoBox"] = {
+		["BigWigs_Plugins_Raid Icons"] = {
 		},
 	},
-	["discord"] = 15,
 	["profileKeys"] = {
 		["Araura - Daggerspine"] = "Default",
 		["Øniækuma - Stormrage"] = "Default",
 		["Héléna - Stormrage"] = "Default",
 		["Halja - Stormrage"] = "Default",
 	},
+	["discord"] = 15,
 	["profiles"] = {
 		["Default"] = {
 		},
