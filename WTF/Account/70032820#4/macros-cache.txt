@@ -1,0 +1,63 @@
+VER 3 0000000000000005 "BussNbuss" "SPELL_MAGIC_MANAGAIN"
+/cast [btn:2,mod:shift] Shadow Protection; [btn:2] Power Word: Fortitude; [mod:shift] Inner Will; Inner Fire
+END
+VER 3 000000000000000E "Combat Log" "134331"
+/Combatlog
+END
+VER 3 0000000000000004 "Decursive" "INV_MISC_QUESTIONMARK"
+/script DecursiveRootTable.Dcr:Println('No spell available')
+END
+VER 3 0000000000000008 "Fel" "INV_STAFF_2H_PANDUNG_C_01.BLP"
+/equip [Admiral Taylor's Staff of Wisdom ]
+/cast shoot
+END
+VER 3 0000000000000011 "Fishing" "132932"
+#showtooltip Fishing
+/Fishing
+END
+VER 3 0000000000000002 "GuildLFR" "INV_MISC_QUESTIONMARK"
+/run local a,b,c,d,t,h,r,l,z;a,b=UnitClass("player");c=UnitLevel("player");l,t,h,d=GetLFGRoles();r="";if d then r=r.."DPS " end;if t then r=r.."TANK " end;if h then r=r.."HEALER" end;z= a.." LEVEL "..c.." LFG RDF "..r;SendChatMessage(z,"GUILD",nil,4)
+END
+VER 3 0000000000000006 "HealiT" "SPELL_SHADOW_DISPERSION"
+#showtooltip Flash Heal
+/cast [@mouseover,help,nodead][]Flash Heal
+END
+VER 3 0000000000000010 "Hide Chat" "132315"
+/run _CHATHIDE=not _CHATHIDE for i=1,NUM_CHAT_WINDOWS do for _,v in pairs{"","Tab"}do local f=_G["ChatFrame"..i..v]if _CHATHIDE then f.v=f:IsVisible()end f.ORShow=f.ORShow or f.Show f.Show=_CHATHIDE and f.Hide or f.ORShow if f.v then f:Show()end end end
+END
+VER 3 0000000000000001 "LFR" "INV_MISC_QUESTIONMARK"
+/run local a,b,c,d,t,h,r,l,z;a,b=UnitClass("player");c=UnitLevel("player");l,t,h,d=GetLFGRoles();r="";if d then r=r.."DPS " end;if t then r=r.."TANK " end;if h then r=r.."HEALER" end;z= a.." LEVEL "..c.." LFG RDF "..r;SendChatMessage(z,"CHANNEL",nil,4)
+END
+VER 3 0000000000000003 "RBG" "INV_MISC_QUESTIONMARK"
+/run local a,b,c,d,t,h,r,l,z;a,b=UnitClass("player");c=UnitLevel("player");l,t,h,d=GetLFGRoles();r="";if d then r=r.."DPS " end;if t then r=r.."TANK " end;if h then r=r.."HEALER" end;z= a.." LEVEL "..c.." LFG RDF "..r;SendChatMessage(z,"CHANNEL",nil,4)
+END
+VER 3 000000000000000A "Sh1" "SPELL_SHAMAN_SPIRITLINK"
+--Ancestral Spirit and announce target's name 
+#showtooltip 
+/use [dead] Ancestral Spirit 
+/stopmacro [nodead][nohelp]
+/emote is resurrecting %t 
+END
+VER 3 0000000000000007 "ShieldiT" "SPELL_HOLY_POWERWORDSHIELD"
+#showtooltip Power Word: Shield
+/cast [@mouseover,help,nodead][] Power Word: Shield
+END
+VER 3 000000000000000D "SPEC Swap" "538565"
+/run SetSpecialization(GetSpecialization()==1 and 3 or 1)
+END
+VER 3 000000000000000B "Stance" "ABILITY_MONK_SOOTHINGMISTS"
+/cast Stance of the Spirited Crane(Mistweaver Stance)
+/cast Stance of the Wise Serpent(Mistweaver Stance)
+END
+VER 3 000000000000000C "Syckem" "ABILITY_PHYSICAL_TAUNT"
+/cast Cobra Shot
+/cast Kill Command
+/cast Concussive Shot
+END
+VER 3 0000000000000009 "Two Totems" "SPELL_FIRE_FLAMESHOCK"
+/castsequence Searing Totem(Fire Totem), Earthbind Totem(Earth Totem, Thunderstorm
+END
+VER 3 000000000000000F "ZygorAction1" "134400"
+END
+VER 3 0000000000000012 "ZygorAction2" "134400"
+END
